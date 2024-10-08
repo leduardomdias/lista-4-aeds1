@@ -7,7 +7,7 @@ As questões da lista 4 abordam diversos tópicos fundamentais em algoritmos e e
 - Funções e parâmetros
 - Estruturas de repetição e decisão
 ## 🛠️ Ferramentas Utilizadas
-C: Linguagem de programação principal utilizada para a resolução das questões.
+C: Linguagem de programação principal utilizada para a resolução das questões. <br>
 CLion: IDE utilizada para desenvolvimento e teste dos códigos.
 ## 📁 Estrutura do Repositório
 Cada arquivo corresponde a uma questão da lista, com um arquivo adicional para testes:
